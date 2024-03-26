@@ -1,0 +1,44 @@
+
+.myimg {
+    border-radius: 50%;
+    
+    width: 200px;
+    
+
+}
+.background{
+    background-color: rgb(77, 233, 238);
+}
+#cv-template {
+    display: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cv-form{
+    font-weight:700;
+    color:rgb(18, 14, 15);
+     background-color: rgb(77, 233, 238);; 
+     font-family: 'Times New Roman', Times, serif;
+  
+ 
+
+}
+#btn1{
+    font-weight: 500;
+    font-style:normal;
+    font-size: 22px ;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(77, 233, 238);
+    border-color: rgb(112, 28, 230);
+    color: rgb(4, 14, 17);
+
+}
+.btn{
+ background-color: rgb(4, 21, 204);
+}
+.form-group{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
